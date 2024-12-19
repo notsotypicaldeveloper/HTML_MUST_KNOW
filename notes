@@ -1,0 +1,23 @@
+Div Element:
+    - a non-semantic element
+    - is a container for other HTML element.
+    - block element(takes full width)
+
+
+Span Tag:
+    is also a container used for other HTML elements 
+    inline Element(takes width as per size)
+
+
+<tr> -> table  row
+<td> -> table data 
+<th> -> table header 
+    
+Form->
+used to collect data from the user.
+
+Ex: signup/login/help request/contat me 
+
+
+iframe-> when you need to show another website in goven website
+
